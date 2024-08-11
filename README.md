@@ -18,7 +18,12 @@ Check out the live demo [here](https://sweety-vigneshg.github.io/Event-Managemen
 
 ## Screenshots
 
-![Event Management System Screenshot](#)
+![Event Management System Screenshot](https://github.com/Sweety-Vigneshg/Event-Management-System-Basic/blob/main/Screenshot/Screenshot%20(1).png)
+![Event Management System Screenshot](https://github.com/Sweety-Vigneshg/Event-Management-System-Basic/blob/main/Screenshot/Screenshot%20(2).png)
+![Event Management System Screenshot](https://github.com/Sweety-Vigneshg/Event-Management-System-Basic/blob/main/Screenshot/Screenshot%20(3).png)
+![Event Management System Screenshot](https://github.com/Sweety-Vigneshg/Event-Management-System-Basic/blob/main/Screenshot/Screenshot%20(4).png)
+![Event Management System Screenshot](https://github.com/Sweety-Vigneshg/Event-Management-System-Basic/blob/main/Screenshot/Screenshot%20(5).png)
+![Event Management System Screenshot](https://github.com/Sweety-Vigneshg/Event-Management-System-Basic/blob/main/Screenshot/Screenshot%20(6).png)
 
 ## Usage
 
