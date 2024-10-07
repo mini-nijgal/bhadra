@@ -12,18 +12,8 @@ A comprehensive Event Management System built with HTML, CSS, and JavaScript, de
 - **Responsive Design**: The system is designed to be responsive and user-friendly across different devices.
 - **Pop-up Notifications**: Users receive confirmation pop-ups upon successful form submissions.
 
-## Demo
 
-Check out the live demo [here](https://sweety-vigneshg.github.io/Event-Management-System-Basic/login.html).
 
-## Screenshots
-
-![Event Management System Screenshot](https://github.com/Sweety-Vigneshg/Event-Management-System-Basic/blob/main/Screenshot/Screenshot%20(1).png)
-![Event Management System Screenshot](https://github.com/Sweety-Vigneshg/Event-Management-System-Basic/blob/main/Screenshot/Screenshot%20(2).png)
-![Event Management System Screenshot](https://github.com/Sweety-Vigneshg/Event-Management-System-Basic/blob/main/Screenshot/Screenshot%20(3).png)
-![Event Management System Screenshot](https://github.com/Sweety-Vigneshg/Event-Management-System-Basic/blob/main/Screenshot/Screenshot%20(4).png)
-![Event Management System Screenshot](https://github.com/Sweety-Vigneshg/Event-Management-System-Basic/blob/main/Screenshot/Screenshot%20(5).png)
-![Event Management System Screenshot](https://github.com/Sweety-Vigneshg/Event-Management-System-Basic/blob/main/Screenshot/Screenshot%20(6).png)
 
 ## Usage
 
