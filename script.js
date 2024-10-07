@@ -25,6 +25,7 @@ async function registerUser(event) {
 const defaultEmail = "admin@gmail.com";
 const defaultPassword = "123";
 
+
 async function loginUser(event) {
     event.preventDefault();
     const email = document.getElementById('login-email').value;
